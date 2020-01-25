@@ -1,0 +1,6 @@
+framework module Pods_Results_with_autolayoutsUITests {
+  umbrella header "Pods-Results with autolayoutsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
